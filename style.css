@@ -148,23 +148,25 @@ button {
     h1{
         font-weight: 600;
         width: 30rem;
-        font-size: 2.5rem;
+        font-size: 2.7rem;
         margin-top: 10rem;
         text-align: start;
     } 
 
     p{
-        width: 29rem;
+        font-size: 1.2rem;
+        width: 34rem;
         text-align: start;
     }
 
     button{
-        height: 3rem;
-        width: 11rem;
+        font-size: 1.3rem;
+        height: 3.5rem;
+        width: 13rem;
     }
 
     .social{
-        margin: 11rem 5rem;
+        margin: 9rem 5rem;
         justify-content: end;
     }
     
